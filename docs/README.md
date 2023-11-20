@@ -2,6 +2,18 @@
 
 > An awesome project.
 
-$$
-y = \sin(x)
-$$
+> [!NOTE] 
+> this is note
+
+> [!TIP] 
+> this is TIP
+
+> [!Attention] 
+> this is ATTENTION
+
+
+> [!warning] 
+> this is WARNING
+
+> [!comment]
+> this is comment
