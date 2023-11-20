@@ -1,4 +1,6 @@
 * [Home](/)
 * [Guide](guide.md)
 * [test](/test/README.md)
-    * [test](/test/guid.md)
+    * [guide](/test/guid.md)
+    * [new](/test/new/README.md)
+        * [t](/test/new/t.md)
